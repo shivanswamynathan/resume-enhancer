@@ -1,0 +1,4 @@
+MODEL_NAME = "openai"
+
+OPENAI_API_KEY = ""
+
